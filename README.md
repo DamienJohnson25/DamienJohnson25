@@ -1,19 +1,37 @@
-## Damien Johnson
+# Hi, I'm Damien 
 
-<!--
-**DamienJohnson25/DamienJohnson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Graduate | 2:1 BSc (Hons)
 
-Here are some ideas to get you started:
+I'm a Software Engineering graduate from **Manchester Metropolitan University**, where I achieved a **2:1 (Upper Second-Class Honours)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building practical software and developing my skills across **web development, backend development, APIs, and modern software engineering**.
 
-### About Me
-- I am a second year Software Engineering student at Manchester Metropolitan University
+### 🛠️ Technologies & Tools
+
+* **Languages:** Java, JavaScript, HTML, CSS
+* **Backend:** Spring Boot, REST APIs, JSON Server
+* **Web:** WordPress
+* **Tools:** Git, GitHub, Postman
+* **Development:** API integration, debugging, software development
+
+### 🚀 What I'm Working On
+
+I'm currently focused on:
+
+* Building and improving practical software projects
+* Developing my backend and full-stack development skills
+* Expanding my knowledge of modern development tools and technologies
+* Building experience in a professional software engineering environment
+
+### 🎓 Education
+
+**BSc (Hons) Software Engineering — Manchester Metropolitan University**
+**Upper Second-Class Honours (2:1)** | 2026
+
+### 📫 Get in Touch
+
+I'm always interested in connecting with developers, businesses, and people working in technology.
+
+---
+
+*Thanks for visiting my profile!*
